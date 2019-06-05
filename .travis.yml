@@ -15,4 +15,4 @@ deploy:
   api_key: "$API_KEY"
   file: "target/my-app-1.0-SNAPSHOT.jar"
   skip_cleanup: true
-releases:
+release:
